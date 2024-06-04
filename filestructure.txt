@@ -1,0 +1,18 @@
+fullstack-electron/
+│
+├── backend/
+│   ├── main.py            # FastAPI application
+│   └── requirements.txt   # Python dependencies
+│
+├── frontend/              # Vite project root
+│   ├── main.jsx           # Entry point for React application
+│   ├── App.jsx            # React component
+│   ├── App.module.css     # Styles
+│   └── vite.config.js     # Configuration for Vite
+│   └── package.json       # NPM package file for frontend dependencies
+│
+├── electron/
+│   └── main.cjs           # Electron main script
+│   └── preload.cjs        # Electron main script
+│
+├── package.json           # Root NPM package file for Electron
