@@ -57,9 +57,11 @@ To deploy this project run
 
 ## Tech Stack
 
-**Client:** React, TailwindCSS, [TODO]: Add state management system - redux
+**Client:** React, TailwindCSS, [TODO]: Add state management system - redux, zustand
 
 **Server:** Python, FastAPI
+
+**Database:** [TODO] Mongodb - use this as reference: https://github.com/mongodb-developer/farm-stack-to-do-app/blob/main/README.md
 
 
 ## Running Tests [TODO]
@@ -73,18 +75,12 @@ To run tests, run the following command
 
 ## Features [TODO]
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 
 ## Lessons Learned [TODO]
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 
-## Optimizations {TODO}
+## Optimizations [TODO]
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
